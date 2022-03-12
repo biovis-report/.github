@@ -12,7 +12,7 @@ You can clone [the example repo](https://github.com/biovis-report/biovis-report-
 
 ## Demo
 
-To better demonstrate the capabilities of BioVisReport, we provide an example based on the genomic and transcriptomic profiling of the Chinese Triple-Negative Breast Cancer cohort (Jiang, et al., 2019).
+To better demonstrate the capabilities of BioVisReport, we provide an example based on the genomic and transcriptomic profiling of the Chinese Triple-Negative Breast Cancer cohort (Jiang, et al., Cancer Cell, 2019).
 
 <a href="https://www.youtube.com/watch?v=MZ1Kv75t_Mc" style="text-align: center;" alt="The Chinese Triple-Negative Breast Cancer Cohort">
   <img src="https://raw.githubusercontent.com/biovis-report/.github/main/profile/Thumbnail.png" width="100%" />
